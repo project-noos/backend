@@ -1,0 +1,16 @@
+{
+  "name": "eletron",
+  "version": "0.0.1",
+  "description": "project noos backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./main.js"
+  },
+  "keywords": [],
+  "author": "jadson.g-matos@outlook.com",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+}
